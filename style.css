@@ -399,6 +399,7 @@ mobile
     background-position: center;
     height: 243px;
     border-radius: 18px;
+    overflow: hidden;
   }
   .item-subheading {
     display: block;
